@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VPN Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>MyVPN</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Features</a></li>
+                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">Download</a></li>
+                    <li><a href="#">Support</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h2>Secure Your Internet With Our VPN</h2>
+            <p>Fast, secure, and easy to use VPN for all your devices.</p>
+            <a href="#" class="cta-button">Get Started</a>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h3>Features</h3>
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>High-Speed Servers</h4>
+                    <p>Access fast VPN servers in over 60 countries.</p>
+                </div>
+                <div class="feature-item">
+                    <h4>Strong Encryption</h4>
+                    <p>Protect your data with military-grade encryption.</p>
+                </div>
+                <div class="feature-item">
+                    <h4>No-Logs Policy</h4>
+                    <p>We don’t track or store any of your activity.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section class="pricing">
+        <div class="container">
+            <h3>Pricing</h3>
+            <div class="pricing-grid">
+                <div class="pricing-item">
+                    <h4>Basic Plan</h4>
+                    <p>$5/month</p>
+                    <a href="#" class="cta-button">Choose Plan</a>
+                </div>
+                <div class="pricing-item">
+                    <h4>Standard Plan</h4>
+                    <p>$10/month</p>
+                    <a href="#" class="cta-button">Choose Plan</a>
+                </div>
+                <div class="pricing-item">
+                    <h4>Premium Plan</h4>
+                    <p>$15/month</p>
+                    <a href="#" class="cta-button">Choose Plan</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 MyVPN. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
